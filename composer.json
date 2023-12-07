@@ -1,0 +1,21 @@
+{
+  "name": "dsform/dsform",
+  "description": "Librery to create forms with php",
+  "license": "GPL-3.0-or-later",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "dsf\\": "src/"
+    },
+    "files": [
+      "src/helpers/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Darwin Santil",
+      "email": "santildarwin@gmail.com",
+      "role": "Developer"
+    }
+  ]
+}
